@@ -1,1 +1,1 @@
-mcs Program.cs
+mcs /reference:libs/Json60r3/Bin/Portable/Newtonsoft.Json.dll Program.cs
