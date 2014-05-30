@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"envelope"
+			],
+			[
+				"re",
+				"receivedMessage"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"s",
+				"source"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"S",
+				"send"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"r",
+				"res"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/*****\n *   *\n *****\n *   *\n *   */\n\n{ \n	\"letter\" : \"A\", \n	\"H0\": [\n		{0,0}, {0,1}, {0,2}, {0,3}, {0,4},\n		{1,2}, {1,4}, \n		{2,2}, {2,4},\n		{3,2}, {3,4},\n		{4,0}, {4,1}, {4,2}, {4,3}, {4,4}\n	]\n}\n\n\n\nH1: [\n		{0,0-4},\n		{1,2}, {1,4}, \n		{2,2}, {2,4},\n		{3,2}, {3,4},\n		{4,0-4}\n	],\nH2: [\n		{0,0-4},\n		{0-4,2}, \n		{0-4,4},\n		{4,0-4}\n	]\nH3: [\n		{0,0-4},\n		{1-3,2}, \n		{1-3,4},\n		{4,0-4}\n	]\n\n\n",
+			"file": "data.json",
+			"file_size": 460,
+			"file_write_time": 130459002830000000,
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Program.cs",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix",
+				"name": "Program.cs"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pr/Dropbox/@Work/@Workbench/Minste komprimering av matrisefont",
+		"/Users/pr/Documents/Digital Editions/Manifest/Introduction to the ITIL service lifecycle [PDF&rsqb; 3rd ed., 2.pdf.xml",
+		"/Users/pr/Dropbox/Rønnings/Påls ønskeliste.txt",
+		"/Users/pr/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pr/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/pr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pr/Dropbox/@Work/@Workbench/NodeExpress/package.json",
+		"/Users/pr/Dropbox/@Work/@Workbench/NodeExpress/quotes.js",
+		"/Users/pr/Dropbox/@Work/@Workbench/NodeExpress/server.js",
+		"/Users/pr/Dropbox/@Work/@Workbench/NodeExpress/tablestorage.js",
+		"/Users/pr/Dropbox/UIO/ITLED4020/ITLED 4020 notater til oppgave",
+		"/Users/pr/Dropbox/Rønnings/Mat kåken.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	{",
+			"home",
+			"));'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/Build.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Program.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Program.cs",
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
